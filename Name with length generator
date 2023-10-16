@@ -1,17 +1,5 @@
 "Name with length generator"
 
-name = "Jack"
-length = len(name)
-print(name)
-print(length)
-
-
-name = "Angela"
-length = len(name)
-print(name)
-print(length)
-
-
 name = input("What is your name?")
 length = len(name)
 print(length)

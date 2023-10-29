@@ -1,0 +1,6 @@
+powder = int(input("yo"))
+
+if powder >= 10:
+    print("yes")
+else:
+    print("no")

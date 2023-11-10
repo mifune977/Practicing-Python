@@ -37,7 +37,7 @@ if cup_size == "s":
         # print(f"final bill ${bill}")
     if extra_mint == "y":
         bill += 1
-    print(f"Here's your COOL<FRESH<Lemonade\n ${bill}.")
+    print(f"Here's your COOL<FRESH<Lemonade\nThe total bill is: ${bill}.")
 
 if cup_size == "m":
     bill = 1
@@ -47,7 +47,7 @@ if cup_size == "m":
         # print(f"final bill ${bill}")
     if extra_mint == "y":
         bill += 1
-    print(f"Here's your COOL<FRESH<Lemonade\n ${bill}.")
+    print(f"Here's your COOL<FRESH<Lemonade\nThe total bill is: ${bill}.")
 
 if cup_size == "l":
     bill = 1.25
@@ -57,6 +57,4 @@ if cup_size == "l":
         # print(f"final bill ${bill}")
     if extra_mint == "y":
         bill += 1
-    print(f"Here's your COOL<FRESH<Lemonade\n ${bill}.")
-
-
+    print(f"Here's your COOL<FRESH<Lemonade\nThe total bill is: ${bill}.")
